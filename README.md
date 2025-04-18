@@ -1,4 +1,7 @@
+# This repo is used for testing the deplit. All the credits goes to the original creator.
+
 ![Zaggonaut, a retro-inspired theme for Astro.](./images/README.png)
+
 
 Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and of course, Astro.
 

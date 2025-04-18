@@ -20,5 +20,11 @@
   },
   "devDependencies": {
     "@types/node": "^22.13.5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp"
+    ]
   }
 }
