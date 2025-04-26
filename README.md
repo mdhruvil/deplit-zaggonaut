@@ -76,4 +76,4 @@ export const GLOBAL = {
 
 ## Ready To Try?
 
-Check out [the theme website](https://zaggonaut.dev) to give it a spin! Nice!!!
+Check out [the theme website](https://zaggonaut.dev) to give it a spin! Nice!!!!
